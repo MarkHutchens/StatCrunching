@@ -1,0 +1,8 @@
+*label  code                            goto
+start
+
+	output = input             :s(start):f(end)
+
+
+
+end
